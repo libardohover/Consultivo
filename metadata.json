@@ -1,0 +1,6 @@
+{
+  "name": "CONSULTIVO AFRO SANTANDER IA",
+  "description": "Ecosistema inteligente para la Comisión Consultiva Departamental de Comunidades Negras, Afrocolombianas, Raizales y Palenqueras de Santander.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
